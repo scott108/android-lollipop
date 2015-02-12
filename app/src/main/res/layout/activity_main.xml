@@ -11,11 +11,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:minHeight="?android:attr/actionBarSize"
-        android:background="#00DDFF"
+        android:background="#6e93de"
         android:theme="@android:style/ThemeOverlay.Material.Dark.ActionBar"
         android:popupTheme="@android:style/ThemeOverlay.Material.Light"  />
 
-    <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
 
 </LinearLayout>

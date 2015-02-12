@@ -16,7 +16,9 @@ public class MainActivity extends Activity {
         Toolbar toolbar = (Toolbar)findViewById(R.id.toolbar);
         //Toolbar will now take on default Action Bar characteristics
         toolbar.inflateMenu(R.menu.menu_main);
-        toolbar.setTitle("test");
+        toolbar.setTitle("Lollipop");
+
+
     }
 
 
